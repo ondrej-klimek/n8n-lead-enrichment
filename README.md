@@ -74,5 +74,7 @@ This project is free to use for personal, educational, and portfolio review purp
 
 If you would like to use this workflow in your business or hire me to build a similar solution, please contact me at: **klimekondrej01@gmail.com**
 **IMPORTANT** - in the subject, include the following words and phrases: **permission**\*, **custom solution**\*\*, **Lead Enricher Pipeline**
+
 \* *for commercial use permission*
+
 \*\* *for building a custom solution for your business*
