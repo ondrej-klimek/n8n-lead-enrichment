@@ -2,7 +2,8 @@
 
 An automated research tool that takes a raw company domain (e.g., `hyundai.com`) and instantly populates a database with the company's full profile, including its logo, description, and social media links. Built with **n8n** and the **Brandfetch API**.
 
-![Lead Enricher Dashboard](lead-enrichment-demo.png)
+![Lead Enricher Dashboard](src/lead-enrich-dash.png)
+![Lead Sheet Real-time Update](src/lead-sheet-update.gif)
 
 ## 🚀 The Problem
 Sales and marketing teams spend countless hours manually researching leads. Copy-pasting company descriptions, hunting for transparent logos, and finding the right LinkedIn or Twitter profiles is tedious and prone to error.
@@ -74,5 +75,7 @@ This project is free to use for personal, educational, and portfolio review purp
 
 If you would like to use this workflow in your business or hire me to build a similar solution, please contact me at: **klimekondrej01@gmail.com**
 **IMPORTANT** - in the subject, include the following words and phrases: **permission**\*, **custom solution**\*\*, **Lead Enricher Pipeline**
+
 \* *for commercial use permission*
+
 \*\* *for building a custom solution for your business*
